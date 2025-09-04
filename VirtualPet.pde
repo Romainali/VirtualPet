@@ -6,9 +6,6 @@ size(500,500);
 
 void draw()
 {
-//mouse coordinate
-System.out.println(mouseX);
-System.out.println(mouseY);
 background(255);
 
 //-------ears--------//
