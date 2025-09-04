@@ -86,7 +86,7 @@ ellipse(205,275,2,2);
 ellipse(237,285,2,2);
 ellipse(212,286,2,2);
 ellipse(227,279,2,2);
-ellispe(260,273,2,2);
+ellipse(260,273,2,2);
 ellipse(275,269,2,2);
 ellipse(288,274,2,2);
 ellipse(272,289,2,2);
